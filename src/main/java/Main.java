@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     //параметри для підключення до БД
     static final String USER = "root";
-    static final String PASSWORD = "00CgbhbnZwm11";
+    static final String PASSWORD = "rootroot";
     static final String URL = "jdbc:mysql://localhost:3306/jdbcLesson?allowPublicKeyRetrieval=true&serverTimezone=UTC&useSSL=false";
 
     //запити до нашої БД
